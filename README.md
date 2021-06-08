@@ -22,15 +22,15 @@ Initially, we denominated the CPI in Fed Balance Sheet terms. As you can see - w
 
 US Housing Values / Fed Balance Sheet
 
-Anyone and everyone has recognized or felt the ever-increasing cost of home ownership. Much discussion in this class has even been had on this subject.
-Below is a chart of Average US Housing Value since XXXX.
+Anyone and everyone has recognized, or felt, the ever-increasing cost of home ownership. Much discussion in this class has even been had on this subject.
+Below is a chart of Average US Housing Value since 2003.
 
 <Graph of avg US housing values>
 
-Now, in Fed Balance Sheet terms, the narrative is flipped on its head. While housing prices have indeed been increasing, they have not kept pace with the rapid expansion of the money supply. While it may feel like houses are going up in value… is this just a reflection of increased dollars in circulation? One that can’t even keep pace with the rate the dollar is being devalued?
+Now, in Fed Balance Sheet terms, the narrative is flipped on its head. While housing prices have indeed been increasing, they have not kept pace with the rapid expansion of the money supply. While it may feel like houses are going up in value… is this just a reflection of increased dollars in circulation? One that can’t even keep pace with the rate at which the dollar is being devalued?
 
 SP500  / Fed Balance Sheet
-Surely though, the stock market is increasing in value. It’s at all time highs , right?!
+Surely though, the stock market is increasing in value. It’s at all time highs, right?!
 <Insert chart of SPY>
 In Fed Balance Sheet terms - since 2008, the S&P is essentially flat. Is it possible the stock market is going up, simply as a reflection of the increased money supply?
 
@@ -39,8 +39,8 @@ GOOG / MICROSOFT / AMAZON
 To dig deeper, we ditched the indices and did the same comparisons for some of the best-performing equities of recent times.
 
 <Chart comparison Google price v. GOOG / FED BS>
-<Chart comparison Microsoft price v. GOOG / FED BS>
-<Chart comparison Amazon  price v. GOOG / FED BS>
+<Chart comparison Microsoft price v. MSFT / FED BS>
+<Chart comparison Amazon  price v. AMZN / FED BS>
 
 Okay, they are going up vs. the Fed balance sheet - but it is more muted than when you don’t change the denominator. They are outperforming Fed Balance Sheet expansion, but they aren’t performing at quite the rate it appears on the surface.
 
