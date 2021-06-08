@@ -29,11 +29,13 @@ Below is a chart of Average US Housing Value since 2003.
 
 Now, in Fed Balance Sheet terms, the narrative is flipped on its head. While housing prices have indeed been increasing, they have not kept pace with the rapid expansion of the money supply. While it may feel like houses are going up in value… is this just a reflection of increased dollars in circulation? One that can’t even keep pace with the rate at which the dollar is being devalued?
 
-SP500  / Fed Balance Sheet
+<SP500  / Fed Balance Sheet>
+  
 Surely though, the stock market is increasing in value. It’s at all time highs, right?!
+  
 <Insert chart of SPY>
+  
 In Fed Balance Sheet terms - since 2008, the S&P is essentially flat. Is it possible the stock market is going up, simply as a reflection of the increased money supply?
-
 
 GOOG / MICROSOFT / AMAZON
 To dig deeper, we ditched the indices and did the same comparisons for some of the best-performing equities of recent times.
