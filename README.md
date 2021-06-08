@@ -14,7 +14,7 @@ Mar ‘20: $4.7 Trillion
 Mar ‘21: $7.6 Trillion
 Jun ‘21: $7.9 Trillion
 
-In this presentation, instead of the US Dollar, we substitute the Fed Balance Sheet as the denominator when looking at a number of asset classes to see what is actually going up in value vs. the US Dollar. Instead of going up, because the US Dollar is going down in value via expansionary monetary policy.
+In this presentation, instead of the US Dollar, we substitute the Fed Balance Sheet as the denominator when looking at a number of asset classes. We wanted to determine what is actually increasing in value versus increasing in value, because the US Dollar is going down via expansionary monetary policy.
 
 <graph of CPI / Fed BS>
 
