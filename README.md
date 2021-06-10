@@ -17,6 +17,7 @@ Assets include various Treasuries and mortgage-backed securities purchased in th
 
 In this presentation, instead of the US Dollar, we substitute the Fed Balance Sheet as the denominator when looking at a number of asset classes. We wanted to determine what is actually increasing in value versus increasing in value, because the US Dollar is going down via expansionary monetary policy.
 
+![FED BS](https://user-images.githubusercontent.com/81844266/121457580-b96c7880-c95c-11eb-89af-5087a9d37f27.png)
 ![image](https://user-images.githubusercontent.com/63909395/121285773-c5d8ce80-c893-11eb-9c24-1baa6b6b80e9.png)
 
 Initially, we denominated the CPI in Fed Balance Sheet terms. As you can see - while there is some noise, there is generally a high correlation between the two. In this sense, it validated our theory that the Fed Balance Sheet would be a great measure of true value accrual vs. just monetary expansion.
@@ -84,9 +85,3 @@ They move in exponential terms, not linear terms as do most equities or other co
 In conclusion - the Fed balance sheet has been expanding at somewhere between 15-20%/year. If you aren’t earning 15%+, your wealth is being destroyed when denominated in the monetary supply of the world’s current reserve currency. While it appears all assets are performing well, it’s important to identify those that are actually going up in value when denominated in the Fed’s Balance Sheet.
 
 While many things are at all time highs, the stock market, housing prices - many don’t feel like they’re the wealthiest they’ve ever been. This is something to keep in mind.
-
-
-
-
-
-
