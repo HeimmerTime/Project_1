@@ -1,5 +1,6 @@
 # Perceived vs. Real Value Accrual
-
+By Tyler Murray, Kelsey Heimmer, and Eric Frost
+  
 As most of you know, The Federal Reserve is the central bank of the United States
 
 The Fed uses a number of levers to influence monetary policy in the United States (and the rest of the world via world reserve status) and achieve what it believes should be the economic goals.
